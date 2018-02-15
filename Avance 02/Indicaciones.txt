@@ -1,0 +1,1 @@
+Se adjunta en la carpeta opencv el uso de la libreria LIBUSB para configurar y leer con opencv y visual Studio (2015) la camara PS3 
